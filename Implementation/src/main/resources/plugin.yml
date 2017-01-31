@@ -1,0 +1,10 @@
+name: ${name}
+version: ${version}
+description: ${description}
+
+author: Abstraction
+website: http://astromc.net/
+
+main: net.astromc.libreui.core.LibreUIPluginPlugin
+load: STARTUP
+database: false
